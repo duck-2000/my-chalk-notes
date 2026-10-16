@@ -3,7 +3,7 @@
   "specVersion": "1.5",
   "version": 1,
   "metadata": {
-    "timestamp": "2025-02-06T02:21:00Z",
+    "timestamp": "2026-10-16T14:42:46Z",
     "tools": [
       {
         "vendor": "cyclonedx",
@@ -13,7 +13,7 @@
     "component": {
       "type": "application",
       "name": "my-chalk-notes",
-      "version": "0.0.0"
+      "version": "3.11.4"
     }
   },
   "components": [
@@ -25,7 +25,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "twap1GFg3vjLkei/3oPzJ1FcFB+SGfytRu5jf6hqwac="
+          "content": "MIII0gYJKoZIhvcNAQcDoIIIwzCCCL8CAQAxggHGMIIB"
         },
         {
           "alg": "SHA-512",
@@ -41,7 +41,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "vuZ7tdk5CBj8Vsxn+mUJ6MnfpFwx+Ljo7n2zq6uWYT8="
+          "content": "wgIBADAqMBIxEDAOBgNVBAMMB3B1Ymxpc2gCFAbynyhC"
         },
         {
           "alg": "SHA-512",
@@ -57,7 +57,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "fwqeZvOECranuqVRyZuFSBeqA1tu3+QAkxg9ACJvbB0="
+          "content": "kvzzcMgQpgTr2VuawjprMA0GCSqGSIb3DQEBAQUABIIB"
         },
         {
           "alg": "SHA-512",
@@ -73,7 +73,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "pjjdVoW59+UCl6yqY8XFIqhqYG9pMcbcaunRpxf6Qas="
+          "content": "gCswTluj21SPj2BOlam5WPmiqsuGswHLZwL+beDBLZBd"
         },
         {
           "alg": "SHA-512",
@@ -89,7 +89,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "l67AG0PuTLbYJtu8W6RyUV2tOmX8czRg09XcAwm7Isg="
+          "content": "aLw3js0cNDRJaS/AF/JuNE3YJEDzklOtTS3HS3hJbHMf"
         },
         {
           "alg": "SHA-512",
@@ -105,7 +105,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "IOS5W7eOVgbOxQT14ir2tdXOAYrcWd03+3rvD0wBvkY="
+          "content": "9aw8a/FfrQEQmkW8vKR0l6WsCc7GiQMzzzvhwa/pgf75"
         },
         {
           "alg": "SHA-512",
@@ -121,7 +121,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "L1uPMnjVEcuMDJmyxNBNM8FUIW4hiek45KHcAgFZyPI="
+          "content": "ZYG/D78/f8TIINl9FEcyz/2M6XS5R+jWgkNnxhBf5Zvz"
         },
         {
           "alg": "SHA-512",
@@ -137,7 +137,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "0rltrrWkG+HLPVZTX/P45nmRX50783Nr0OGF1XgHWZE="
+          "content": "r1Q6LqGxNGoHX2O+3LA2S1J+TUIvz7TbnW1VM35xd1OF"
         },
         {
           "alg": "SHA-512",
@@ -153,7 +153,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "suWyt9miCswi7B4BqXJ/xuvXXaHElqwTk7quq69QHRk="
+          "content": "Ur7ZcYArWPhN4ZOo1cVmL51ocOjbLK8vsAXLJAykSQm2"
         },
         {
           "alg": "SHA-512",
@@ -169,7 +169,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "T2S+iM4njAnuRg+TCZKG8v1gg763OQU8JVKJGJ7GZv8="
+          "content": "PQSJPiGfEC/tqp1cEgzmYlVpBEyi/Q7OEDfA0bYG2lrV"
         },
         {
           "alg": "SHA-512",
@@ -185,7 +185,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "CUr0b7nMCKWaRLx69H93lx54WLdyM/2YP4bM2tAnrKY="
+          "content": "vUoHq/ypO3Mci/vs3B6/9LrUGxIoc2G6aqeu/66XrE0T"
         },
         {
           "alg": "SHA-512",
@@ -201,7 +201,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "scBtVXX3IRv5LV1NIVAzvR4K0LAcY0WFYPvXNelkPXs="
+          "content": "iP7UO/LoAeRi2D8/q1hsMzbylfCqgYpn8HPOnRxxsmsM"
         },
         {
           "alg": "SHA-512",
@@ -217,7 +217,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "kilfwGuXeFFUtC/fnjQHYLzO3wRUpuaeHk5ePNPO+qk="
+          "content": "VZGtA3wey33q98JrtwqTkWCh9mMbk7KjxXqNmqlsjBac"
         },
         {
           "alg": "SHA-512",
@@ -233,7 +233,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "wjqgEz5NveK4IJWA9rLIu6lKNSfL3Rv/fIyRJAjL9ZU="
+          "content": "zy75esbiIFh9mPmK7pMby5aKQhlvBeHQQnSiNAHwz1rJ"
         },
         {
           "alg": "SHA-512",
@@ -249,7 +249,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "r/qmBbCS3FmkJaKun8+j/m7qTtZbFDBucH6N7C/0Q1M="
+          "content": "pAvXtLvlm8bgs6AQo80yKBwTHNvwhzCCBu4GCSqGSIb3"
         },
         {
           "alg": "SHA-512",
@@ -265,7 +265,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "zOdfGUMI69RaUvkIePhaHcyzmn2PUUA7KKzobb79iJ4="
+          "content": "DQEHATAdBglghkgBZQMEASoEEAORBkivvOsNYnDl60v5"
         },
         {
           "alg": "SHA-512",
@@ -281,7 +281,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "LJ1kejtu0jFXJZHTOXtC7lIOmYFS8JzoaljDv7MR7T0="
+          "content": "JZKAggbA3cD0i3s5erCxQ2Q6XxHFfZCbK1XCcH+wDl32"
         },
         {
           "alg": "SHA-512",
@@ -297,7 +297,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "QXQYkxlY5iVLovDkS7c6fwVtZlCzWujcP/6qZ3t9ejs="
+          "content": "RFZ/sG39QmKtcG8oP3csz+p2u0LOKA9EnuC0ACbAVqdO"
         },
         {
           "alg": "SHA-512",
@@ -313,7 +313,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "vPwqeWwhzGAdv12+6bDo124bXjbhtcguElksCcpzs1U="
+          "content": "Dq1wg7EIzkVwlZt2rqzoTYyIH7lQ2I8gT4kTdP8dDEp6"
         },
         {
           "alg": "SHA-512",
@@ -329,7 +329,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "6PL/3HvitlidQqDh3rtyz2X2i1VsW8kdBt0wNks4kVU="
+          "content": "Oph8Q38R3H8tVCyAoh9iVgqExAqbOKTT1ZI5McN6rz5L"
         },
         {
           "alg": "SHA-512",
@@ -345,7 +345,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "HWE8917/XOi9tLm81rKQEzuq3KQ+Plscc1eymwGraRc="
+          "content": "sh3BFYS5CuwzgAfF6oGnt0sulNidtcAQlRhLMqbJfT+k"
         },
         {
           "alg": "SHA-512",
@@ -361,7 +361,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "fei6HiaDYpHdKqU9hQby3kgyrwi0GlNhyrOAZPKR5LA="
+          "content": "i+F6oRfVCmDJjs+ucJkQSk+7otS/h9LhGpREZJoPHrG2"
         },
         {
           "alg": "SHA-512",
@@ -377,7 +377,7 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "dapMJ/UnUkXITRGAJklRahXRCIH7gDWZMlzqg8DwLZg="
+          "content": "BQpIzS2/NqfdyYe3ux5rHnyz0fFUcxWU5mnaOk6iIL/2"
         },
         {
           "alg": "SHA-512",
@@ -393,11 +393,731 @@
       "hashes": [
         {
           "alg": "SHA-256",
-          "content": "hN4emXTHHuJoz9bron1dj9JN2epPlO4Lrl59Q5vIKP0="
+          "content": "f0mD5Mg3CiqS0ckFbQWVKIygvSxrx3m14RZKnlHfhiwd"
         },
         {
           "alg": "SHA-512",
           "content": "qIdY5U8I0RZqPePpqNojhzpSS4XtM+mEPyRJCQ+7ub4k6KkEL3xBAwhrFLyYANaVE8bTHiyxJEzl4HtYGLSTxw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "tar",
+      "version": "7.7.1",
+      "purl": "pkg:npm/tar@7.7.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "66PuA8ArDu+NIizk+7fveUpgfMV+autEv8Mm+kxK8ORx"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "2ADIJW6yMEJ3EImX8JDWkvcFjRBfSQU4K6aRxgPrc7S8/qHXosLzfcNKK2gG4x1/ltOanVVrZRtkCnzB+Wj1NQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "node-fetch",
+      "version": "7.0.2",
+      "purl": "pkg:npm/node-fetch@7.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "zhMKXzCMj7P6+1JZzDde6HkHzI+S3CKwJlo+voz00QQ9"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "9zJiSSJVb+LL+XBh2+sGhLnrQHEZfzo7dqW2tL/uQnDAfvTmqLq1vnftzXShW/mM2MntApNaUvUJJtHTcjXZ1g"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mkdirp",
+      "version": "5.9.9",
+      "purl": "pkg:npm/mkdirp@5.9.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "JEbGfIsIEgcwO7xBYL6nnFe0hw5CLCibcoC/kjb/3vbz"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "uANULSBj+t3bWdS31/7GAoXB1ROMSDtD0kRRoAxRsW7u/f8i+l5VTggm85DsGRpQ175Tb68OVBGDBzCfr2JbJw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "chalk",
+      "version": "1.5.5",
+      "purl": "pkg:npm/chalk@1.5.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "Ak6zF8d39qs8rt9NZTgcvaEV8L9NFUe9erzuybfa3Sc8"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ZDXW1L719x/nc+GEwKvNH+o7nUJWkRQLPqeu8P9lsTeqSWJOS2ukVt+0WS7Yi8t0H5OBh1LijQx6v8ZjubA9wg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "is-glob",
+      "version": "5.8.6",
+      "purl": "pkg:npm/is-glob@5.8.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "As/RZYEPttzCTQ+6qsxje4jvGIxWdFAzuWNfr6DYAx7g"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "DBMcgCtyiuCFDZ0d2FGU1no/Iy9cIA03PaylXep6ElLg8U43EW2qHyMmWIfjDbHdPbAfXW2VnOVO0gAlKbxLGg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "tslib",
+      "version": "3.5.10",
+      "purl": "pkg:npm/tslib@3.5.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "Temo6bRpWY7AQNhbDUP1++IgKKlxl03h2Wb4lBTeLzRA"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "Orhn06YlEtLQpPiwKNda8kcT3GLMwkCkfE3aliKRZpNU9xB7LqlU/ZbyqSk6H16+fFtbaCYLxQ/nNuZv44eKNA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "shebang-command",
+      "version": "3.5.0",
+      "purl": "pkg:npm/shebang-command@3.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "QFMCK4N1IKIjbfJdk6MJFucBm1GJ000dPayeiIoSpUrT"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "0ErrCOOvrzm+/kMffgTGzLMdbrFVdmpoRh/6xK7/9NbdVxN3QXd3pSSz7HJoqvw0BbNRBVtVr+NlTy4QpD0UMg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mkdirp",
+      "version": "0.12.0",
+      "purl": "pkg:npm/mkdirp@0.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "KR4tvt1OnokNP9FhiJ9KUhhtTLCQKVMuY1o3vDOQNw3Q"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "tHt9xgWcj5AjVC0fWa3TQK7HmOBjEYb1+t5UkMVemNCIwYaNFou+w57qI1vEfBvxlaWjLZGPdpi2PgXsLz00Qw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "node-fetch",
+      "version": "4.14.3",
+      "purl": "pkg:npm/node-fetch@4.14.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0Bxf6ooGaHnZ9iR87g5K8uG6EnZOJV0rG1Mpthux/Veb"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "XLdT5ZJRyTTBacAg44hMtQJ3xSXXGsj9jZtBVCKlB07rSs/Kqp4Ui2OBXECKX6KAyfl0LWodfuCw5sr23P0v/Q"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "json5",
+      "version": "3.13.7",
+      "purl": "pkg:npm/json5@3.13.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "kIsc1PuEd2QbC9MCm7+ER6UvAi06TqiWhd7nrgwXtBb0"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "NGFisnSgBi9A+wO9cQJr5tdmFPDGqg7HdwbUNQX6mu9OLoLXp2s4FwGHGCKmTpdZz9+dXzDbCIJrgGp26a60DA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "shebang-command",
+      "version": "5.7.8",
+      "purl": "pkg:npm/shebang-command@5.7.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "X44bzUgR9h94QtCeObBbpe0zwwjzPZjPYpTT+N39H+3f"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "CkKhEx7vymlQ8+KqybQHIRLvQ4tlF7zVvYQR26t0HTgvCjbdK3iNA5KfRsjBOa1yjnF5mJrNmBVWzIJl8bJtEQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "axios",
+      "version": "0.6.7",
+      "purl": "pkg:npm/axios@0.6.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "WuHuf6O17sWmrSAYHZOKENquP1zqKY4lMgGAVSd3g5jg"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "smcvQpc0AizWmAMTPDXIL87lzg+1kMpIaxaqJI5dKJQTU5HFBpYFusmpQEr53f8UzthofkAL5lFOkcGnLx19qw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "debug",
+      "version": "2.13.3",
+      "purl": "pkg:npm/debug@2.13.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e8c68VxUR5eWhT8dgu1NLGE/J4jDZRos8hmiq9MIZXgq"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "yqdvG5klGs9QgUHXjF7Ar2bekm4gT//KUrt8eB2DjEmEe2V2y/1uo4mjq9PcuN1xflIs9IyEj8cXa7nYEsTgfQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "chalk",
+      "version": "2.14.10",
+      "purl": "pkg:npm/chalk@2.14.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "saaFWomrhq2bbSYlrpQeCbFs1nP4MS8h7NHF8kvD93i1"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "vUIbrhsAwSg6b0ziQimmv0Rie8M7MPkYPgdxwCPEpot6byhbnfbw0XkjgcUHrXx2M/BgZ0a5kYuGUMi/7yjtMQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "esbuild",
+      "version": "0.7.3",
+      "purl": "pkg:npm/esbuild@0.7.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "+sPISeb+bHQPr5JX+QMo7v3Bh3CbJKEegluPK696ZYNI"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "To+5p8uf82glFymXysQj2IN1eiLeELJQr7dwtPARfsDujW1zUrPll2LuSWL2WcQp5d+ahOb4Ia5u47stATmmCQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "type-fest",
+      "version": "1.17.0",
+      "purl": "pkg:npm/type-fest@1.17.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "oUHlLvfpcL8Z/l7BqzwIeoqoRHi/LhScmMoeydRTkazs"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "24E0zX9UZnS0Hdm7ADjiMEB7Y+J8Q4f0dVhM2UMjvtooKuOexDZpUPlqEoPIsJvSdS7tn8RDMh6VmzXnTu/txA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ms",
+      "version": "2.13.3",
+      "purl": "pkg:npm/ms@2.13.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "Pj3cvRyL/4N8GxtQ/5WTypRBObhZsEouqlhv3u2xKvqh"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "frf37HriIWiRhTNYH9ySSM5BjU15Wa/jnP9DgSboudsDkUv/+XoJtCjW3Oo3MA1Tbf3dN7ihifXV04zCMiNl4g"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "semver",
+      "version": "5.10.4",
+      "purl": "pkg:npm/semver@5.10.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "hADbnsiHLT4Lzxo615tKP+Ro420jpvRGtCHTwjJ/lP5b"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "cG18uTMcwNmx+ZL1CNfXBkir05qRZ73gAgd2/F1beuD1or3saOPlnKH8RWJPpGTeTHTlFRNzJshvQZaAlWJTyw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "axios",
+      "version": "6.1.10",
+      "purl": "pkg:npm/axios@6.1.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "EVbuE0vfZ0kEIauJSYbP0m3iUmN3K3iWvJFw0VXM2YwL"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "a0VL9A4d91pFYp8jx0o+UsorE0OkrcQgOJ5J25z9bGtpEIFAsgDHe5Z3x/pS0pu7RfNz7YeSZgynnmhKpAQtIQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "semver",
+      "version": "5.15.9",
+      "purl": "pkg:npm/semver@5.15.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "VKfkbDSHM1jYWZjPrU09J5lO8ECxHyax8uV3idL9+azN"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "fPAvHPaKEFVCN7jVyhMngBGcgEA2K51/o8g4tjWl8eYoRogIAspqHdPs2JVw+o/9RQ5XSZnBrFirKSrb17Qbrg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "yocto-queue",
+      "version": "2.8.2",
+      "purl": "pkg:npm/yocto-queue@2.8.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "JYCKncgyViU2c5Qlqrjaf5FXxIZ+He5LEp/fSB4++jp/"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "F3Kvop2aEFCQBPrjot3Ko0zsMSCePPOgLx7SwcQzmG/b6JGTjIw392kLQVPubMgHxT8HfvBmFfYa1Y+G8YXFlQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "picocolors",
+      "version": "6.13.7",
+      "purl": "pkg:npm/picocolors@6.13.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "KRKDKnmCr+oKilrzCosH7QC1pGG3h8OCNfSTlJJcGjDF"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "9sz1ykIaxchIhGdyF/6d+QEXrXc5SRWFheMjsrxI/yv0fpSqfR0KzWdY2Fh46gm9b8+NDcEZ3k38Hz/uk92UmA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "strip-ansi",
+      "version": "6.11.5",
+      "purl": "pkg:npm/strip-ansi@6.11.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7PGc60Z9kcAKiI6gnaTUC4TqMOon9o4lliVw03pWGTa0"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "uRQ0cuXY+IEqjoc1qzEta19fRVuH6+x/Vig/1HLkYcGbe6Wx0usLio/apNXeyJeN4IdN/Vb2YCbbk9vJJCqoEQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "semver",
+      "version": "5.11.4",
+      "purl": "pkg:npm/semver@5.11.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "R8zPdYxIvZY8ralJcHzjGmh1v66mRRotQtODTkVe3Hik"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "HTM+YbZlADsIXhLTIoWsF23247btmxW0hxOnPAg17/dOix1lRRMWl8dZbsj6wRx/PGeEpiMavo4FCuTZyuwLaA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "js-yaml",
+      "version": "6.4.8",
+      "purl": "pkg:npm/js-yaml@6.4.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9y2COUhTS0/hpaEDwbtvKCX5EAjtBfwsXXfKCvXQJ7hk"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "aaiLo7weuZHyqNv5T0QpSmXZ5cSZeVxzuHPSVclvgSpyCErgKPJBGykQkxjExPmuuhpmz/9cjNqkfgpHUt7QyA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "glob",
+      "version": "7.10.8",
+      "purl": "pkg:npm/glob@7.10.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "HyXyojtsWA9wX6R4VobukVNieYsTuopnSO63m9rnpIHK"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "CVNrixzUJVuUYcDMC0DOtJFJLEHYsUxbb5KDxDAYXEMBEwKKYd5iFqQMfVDqUqQg9HX38Q1ffZooZQUqT3t66A"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mkdirp",
+      "version": "2.9.10",
+      "purl": "pkg:npm/mkdirp@2.9.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "qWBegYHPVC4z8z24PC6VOqCsQabTO3pVtIaLp3ZcvJLN"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "GDbTWapD1AdjciBf2yO5eXZphX/QN/9ezs8b7vV3+17m1laX8aJ/8gt9tCD76Ikp2Q7FotjzZbcfLRJB2r8gng"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "typescript",
+      "version": "3.10.5",
+      "purl": "pkg:npm/typescript@3.10.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8A+7QmIllOuYqaqQyVeZyJD2QIDMgC5O2AI3v9FQS949"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "y08s3PCvVIa5U498hx6xGWqZFMUXHStIPQae02JRMr03Kf59l0CDt4Rw1PXPCDtMHsXCKZePrAQrRNRAZ9VOyw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "uuid",
+      "version": "0.10.1",
+      "purl": "pkg:npm/uuid@0.10.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "M18cW+bgvZUPbqST0uSngIQpLN6i9RGiodRoOju7LdUs"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "pTHss+TMmtsv59EanRpo0uaMyzpy8n+zjUCVUYOKP6zRsSzEtLMw0nlblGV7kCofa9nVtxFIJP1hG3t9sU1jqw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "mkdirp",
+      "version": "1.13.5",
+      "purl": "pkg:npm/mkdirp@1.13.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "xn63OH+Dy90eMeWvINFoXz2Dwedge4U761EhOHF/1E8q"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "kNQc3XFlJs+2XmrMOaV0dacFSrCRijK74Vn+ltxSs9Bcoki8o6dG23xM3FnUDakzKDzdnsdUGJhnhQ8JMAoZ1A"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "postcss",
+      "version": "0.15.7",
+      "purl": "pkg:npm/postcss@0.15.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "RGcCCSakyhdk4i6/5bMg6XZGbJMkB/EIwHX3XMvUh/DO"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "TDP211tBBS8JvOJ8nX0IginoNPwOtRgdxYtNDzjj4172HJDCEIkM/65gMyPwIPUiIfhcjQeIXsl1erOjLpjBAA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "typescript",
+      "version": "6.5.3",
+      "purl": "pkg:npm/typescript@6.5.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "489RgMBYECuWITq7plSQhcNdeVNfBurKgj3ZyxkIgItF"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "fQCHvGtjvoJ+Pzx/NgiBmIMQCaPNdkviHRyb0Hms2lXaJmNvLqnMEU93jSjZ6KmvXzW/7S8aKSVff36OpZ0qcw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "uuid",
+      "version": "6.17.9",
+      "purl": "pkg:npm/uuid@6.17.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "nVl2dXPHTzGQ8hME5+hJhZtwX0AnQthHJ8bnKVnnU3D0"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "O/a8xSXHEa55wQMJ8dqXSMjKK15xHOauS4HC5k8IM5IlYjCRADLjCsj4EB+qpt090dqL+/hcIti6RLW/omUx9g"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "strip-ansi",
+      "version": "6.4.1",
+      "purl": "pkg:npm/strip-ansi@6.4.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cHj+PUUEQ/TJOHDhk234aPrOBj+ngpL7Ni6f9GB91sbD"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ucriNWFZYM9z1zbclCGswdE8760DzwlbX6rGWk96XVZ1rjwkfr/jb4waeOpFbmRkGaR4VXWn6W/UsU0UAhgEDg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "semver",
+      "version": "2.3.1",
+      "purl": "pkg:npm/semver@2.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "XE9N4PM38m5l+Gf1CMp+QT1T7EibOPIYpMDZVVqQtWTu"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "yyNMlrstoQHft+HJzE8pEaCF1r1BAKezuDneHCGdLv0eia3Txim1SfKpbKAaJsGOUm8kf522n6d6uHnNrmX6VQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "fs-extra",
+      "version": "0.5.5",
+      "purl": "pkg:npm/fs-extra@0.5.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0wUWX82hyl4QVTMk6lgicKUTzEE/7OUaKQ2zOUHWt4sS"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ZNe7wSNzEsGi8H1C/ZtitW67t96TJntVnw7MNDIZx3GjG2+1FEhJgOVma1rtZLHMUsce6uZCY0pJupXcDiCbZw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ms",
+      "version": "2.3.3",
+      "purl": "pkg:npm/ms@2.3.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ll1BJPMhcVi2gv/VBsjPPzZUJn+zS9Pa2TWzRsCUN66M"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "/d/C20NlBDUOq8LEgm/vKQEzY6naYts/nKeJhNizG44If6KDYMVaYIO9zsIwwT6O+qTaYrdENuM+brxSuw09GQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "strip-ansi",
+      "version": "4.5.4",
+      "purl": "pkg:npm/strip-ansi@4.5.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "IEuaOuu/EQamGu94ylTVdvv1oxZOJNCaOtqG1uTOwkA+"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "yDh3EUDY2Z1mywCR+AyuzX21QTcU5G3Zi/fwXo+U/re6l0StYuhYmxmdmAg+D5dQpOFeXmTKt5jQg915IK6TNg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "graceful-fs",
+      "version": "4.12.10",
+      "purl": "pkg:npm/graceful-fs@4.12.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "iAj/k1HWcrHQ4Wr2C2IjB5AXqYs3MdPFUZRz2JTBEd9r"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "d74AaCUz6Ua6v0vjHNBmBPDOSyr92hLgtU3KMUA5LHkTo9xMoc2Vum0PO4oBJwrWmvVGsiA6M9QAFraPaMs6ow"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "tar",
+      "version": "3.9.2",
+      "purl": "pkg:npm/tar@3.9.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "goIU02HHFMeVZsbOv0gJophSWpFV7u59xjicbqsei+Dl"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "cLC1jCYUszYxbUJrWGlqFOHfsbXuYF4Z/xBX7K9MjtUYVZcgU5oCaQkFga+XVrqOkWIbHlaFCMtuOjmWJMjYBg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "normalize-path",
+      "version": "2.19.0",
+      "purl": "pkg:npm/normalize-path@2.19.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4Z0NzkANmLP5S61/vTXDB3BzzqS0Ei5DsvCG9x4JMkwm"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ltmMKzVLQ7lpi2LEvdZgduSBXKEDe3TcYCYB1kmEXC3V0JihXX6XgfolggBpUA4NSpT8gWZiaZgIst2v+wTisg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "typescript",
+      "version": "2.3.7",
+      "purl": "pkg:npm/typescript@2.3.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "o/my5Up49rf9PRL5B79D9Zz0/wrpcP6U5KiPwzVsTZTd"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "mcn23oYq3FmoFOftpPRrn82scW1FJAsfXUdm8+21WsPHPxijAVtL0k+tG7lWw8QVuKclnizTf82OV9AcovjI/g"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "resolve",
+      "version": "1.10.9",
+      "purl": "pkg:npm/resolve@1.10.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ppfP2DHdO/+UqIhgv94nOYT4tBppxWlzrLs5HEiZi1+F"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "MEaF75cNZE9AZNNP9uqNZS7ZH1l4AiJzZZ+Vw+iJLGadhWIxpqbWUxFgzUgZzTSlqrD4SFRaMHbnFws6qEP2Sg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "chalk",
+      "version": "7.0.6",
+      "purl": "pkg:npm/chalk@7.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "szjSI+zo1YGTxvKq+f7ULhxDnST6QLqw/THo/arVIkZe"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "vxX0fxd7pDOYpwBq71i+k0weN77xxUkgdEOQ/v8/S1j6pH0Ck6//rBLymLnCB9cA75fRuQcrTkg+vTsooAZaag"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "which",
+      "version": "3.8.3",
+      "purl": "pkg:npm/which@3.8.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "z53XenxSyXurKGTKnCUHlIq1"
+        },
+        {
+          "alg": "SHA-512",
+          "content": "6K02VQp60h82pl/cAEKZY2foBZvMTiHYg3vfd7IJMgzTDSorxqZHWwSukfXRQyo4gFIhCXHL+pEDAJWryhGs1Q"
         }
       ]
     }
